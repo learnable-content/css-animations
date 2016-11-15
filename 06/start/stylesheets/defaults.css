@@ -1,0 +1,122 @@
+/*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
+
+html {
+  background: rgba(239, 158, 69, 1);
+  font-family: Open Sans, sans-serif; /* 1 */
+  font-size: 10px;
+  line-height: 1.15; /* 2 */
+
+  -ms-text-size-adjust: 100%; /* 3 */
+  -webkit-text-size-adjust: 100%; /* 3 */
+}
+
+body {
+  margin: 0;
+}
+
+article, aside, footer, header, nav, section {
+  display: block;
+}
+
+figcaption, figure, main { /* 1 */
+  display: block;
+}
+
+figure {
+  margin: 1em 40px;
+}
+
+[hidden] {
+  display: none;
+}
+
+/* Fonts */
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+
+/* Layout */
+
+body {
+  margin: 0 auto;
+  max-width: 800px;
+  text-align: center;
+  width: 100%;
+}
+
+.centered {
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+h1 {
+  background: #3991AE;
+  color: #fff;
+  display: inline-block;
+  font-size: 5vw;
+  font-weight: normal;
+  margin: 0;
+  padding: 10vh 4rem;
+  text-align: left;
+}
+
+p {
+  color: #554;
+  font-size: 2.5vw;
+}
+
+@media (min-width: 1200px) {
+
+  p {
+    font-size: 2vw;
+  }
+}
+
+@media (max-width: 600px) {
+
+  p {
+    font-size: 2rem;
+  }
+}
+
+a {
+  color: #EF9E45;
+  text-decoration: none;
+}
+
+ul {
+  margin: 2vh 0 2vh 8rem;
+}
+
+li {
+  color: #eee;
+  font-size: 2.5rem;
+  padding: .8rem 0;
+  text-align: left;
+  -webkit-transition: all .2s ease-out;
+  transition: all .2s ease-out;
+}
+
+li:hover {
+  color: #aaa;
+}
+
+@media (min-width: 1200px) {
+
+  li {
+    font-size: 2vw;
+  }
+}

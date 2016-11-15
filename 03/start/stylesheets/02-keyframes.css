@@ -1,0 +1,31 @@
+.demo {
+  color: #fff;
+  font-size: 6rem;
+  overflow: hidden;
+  padding: 2rem 4rem;
+  position: relative;
+  text-align: center;
+}
+
+.demo:before {
+  background: #3991AE;
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+
+}
+
+.demo span {
+  display: inline-block;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+
+}
+
+.demo .text-part-2 {
+
+}
+

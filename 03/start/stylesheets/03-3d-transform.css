@@ -1,0 +1,17 @@
+.centered {
+  -webkit-transform-style: preserve3d;
+          transform-style: preserve3d;
+
+  -webkit-perspective: 800px;
+
+          perspective: 800px;
+}
+
+.demo {
+  background: #3991AE;
+  color: #fff;
+  font-size: 4rem;
+  padding: 2rem 3rem;
+  text-align: center;
+
+}
