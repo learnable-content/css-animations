@@ -1,0 +1,39 @@
+.demo {
+  background: #3991AE;
+  color: #fff;
+  cursor: pointer;
+  font-size: 6rem;
+  height: 10rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  width: 20rem;
+}
+
+.demo-letter {
+  left: 50%;
+  position: absolute;
+  top: 50%;
+
+}
+
+.demo-letter1 {
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.demo-letter2 {
+  -webkit-transform: translate(-50%, 200%);
+          transform: translate(-50%, 200%);
+}
+
+.demo:hover .demo-letter1 {
+  -webkit-transform: translate(-50%, -200%);
+          transform: translate(-50%, -200%);
+}
+
+.demo:hover .demo-letter2 {
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
