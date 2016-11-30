@@ -1,0 +1,76 @@
+.demo {
+  margin: 0 auto;
+  max-width: 80rem;
+}
+
+.content {
+  border-radius: 1rem;
+  margin: 2rem;
+  padding: 4rem 2rem;
+  text-align: left;
+}
+
+.content p {
+  color: #222;
+  font-size: 2rem;
+}
+
+button {
+  -webkit-animation: dance 1s cubic-bezier(0,.77,.53,1.31) infinite;
+          animation: dance 1s cubic-bezier(0,.77,.53,1.31) infinite;
+  background: #3991AE;
+  border: none;
+  color: #fff;
+  display: block;
+  font-size: 4rem;
+  margin: 0 auto;
+  padding: 2rem 3rem;
+  position: relative;
+  text-align: center;
+}
+
+@-webkit-keyframes dance {
+  0%, 10% {
+    -webkit-transform: none;
+            transform: none;
+  }
+  25% {
+    -webkit-transform: rotateZ(-20deg);
+            transform: rotateZ(-20deg);
+  }
+  50% {
+    -webkit-transform: rotateZ(20deg);
+            transform: rotateZ(20deg);
+  }
+  75% {
+    -webkit-transform: rotateZ(-10deg);
+            transform: rotateZ(-10deg);
+  }
+  90%, 100% {
+    -webkit-transform: none;
+            transform: none;
+  }
+}
+
+@keyframes dance {
+  0%, 10% {
+    -webkit-transform: none;
+            transform: none;
+  }
+  25% {
+    -webkit-transform: rotateZ(-20deg);
+            transform: rotateZ(-20deg);
+  }
+  50% {
+    -webkit-transform: rotateZ(20deg);
+            transform: rotateZ(20deg);
+  }
+  75% {
+    -webkit-transform: rotateZ(-10deg);
+            transform: rotateZ(-10deg);
+  }
+  90%, 100% {
+    -webkit-transform: none;
+            transform: none;
+  }
+}
