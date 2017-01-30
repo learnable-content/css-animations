@@ -14,7 +14,10 @@
   left: 50%;
   position: absolute;
   top: 50%;
-  
+  -webkit-transition: -webkit-transform .4s ease-out;
+  transition: -webkit-transform .4s ease-out;
+  transition: transform .4s ease-out;
+  transition: transform .4s ease-out, -webkit-transform .4s ease-out;
 }
 
 .demo-letter1 {

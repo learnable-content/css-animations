@@ -3,7 +3,8 @@
   border: 4px solid #aaa;
   font-size: 4rem;
   padding: 1rem;
-  
+  -webkit-transition: all .5s;
+  transition: all .5s;
 }
 
 .demo-input:focus {

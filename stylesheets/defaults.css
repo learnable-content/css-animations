@@ -120,3 +120,7 @@ li:hover {
     font-size: 2vw;
   }
 }
+
+#__bs_notify__ {
+  display: none !important;
+}
