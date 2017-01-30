@@ -43,33 +43,27 @@
 }
 
 .linear {
-  -webkit-animation-timing-function: linear;
-          animation-timing-function: linear;
+
 }
 
 .ease-in {
-  -webkit-animation-timing-function: ease-in;
-          animation-timing-function: ease-in;
+
 }
 
 .ease-out {
-  -webkit-animation-timing-function: ease-out;
-          animation-timing-function: ease-out;
+
 }
 
 .ease-in-out {
-  -webkit-animation-timing-function: ease-in-out;
-          animation-timing-function: ease-in-out;
+
 }
 
-.cubic-bezier {
-  -webkit-animation-timing-function: cubic-bezier(.5,-0.5,.5,1.5);
-          animation-timing-function: cubic-bezier(.5,-0.5,.5,1.5);
+.custom-1 {
+
 }
 
-.steps {
-  -webkit-animation-timing-function: steps(3);
-          animation-timing-function: steps(3);
+.custom-2 {
+
 }
 
 h2, h3 {
