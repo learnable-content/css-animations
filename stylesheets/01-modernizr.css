@@ -8,14 +8,17 @@
 }
 
 .demo {
-  -webkit-animation: no-transform 1s .5s cubic-bezier(0,.1,.5,1.5) forwards;
-          animation: no-transform 1s .5s cubic-bezier(0,.1,.5,1.5) forwards;
   background: #3991AE;
   color: #fff;
   font-size: 4rem;
   padding: 2rem 3rem;
   position: relative;
   text-align: center;
+}
+
+.cssanimations .demo {
+  -webkit-animation: no-transform 1s .5s cubic-bezier(0,.1,.5,1.5) forwards;
+          animation: no-transform 1s .5s cubic-bezier(0,.1,.5,1.5) forwards;
   -webkit-transform: rotateX(-90deg);
           transform: rotateX(-90deg);
 }
