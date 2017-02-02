@@ -1,4 +1,4 @@
-![]( CSS_Animations_handouts/headings/8.1.png)
+![](headings/8.1.png)
 
 I hope you've enjoyed this course on CSS animations! Along the way we've covered why you might want to animate, and discussed some principles you should keep in mind when you do. We then went on to explore the properties of transitions, keyframes, and animations, and put them together to create multiple animations.
 
