@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/5.3.png)
+![](headings/5.3.png)
 
 Let's see how we can combine multiple animations on a single element. For this example, we're going to be creating two animations. One that introduces the element, fading it into place and setting things up for the second animation. The second then dances it back and forth infinitely. While this is a simple example, it could be useful in real world applications, where you might want to animate an element into place, then continue with a second animation while the page is being viewed.
 
