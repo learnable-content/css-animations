@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/3.1.png)
+![](headings/3.1.png)
 
 So far, we've seen how a transition helps animate an element from one state to another. Let's look at the second way we can bring animation to our designs, using keyframes and the `animation` property. **Keyframes** are a part of CSS that we could use to create more complex animations.
 
