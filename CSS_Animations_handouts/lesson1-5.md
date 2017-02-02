@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/1.5.png)
+![](headings/1.5.png)
 
 A question I'm often asked is why I choose CSS for animations when so much can be done with JavaScript?
 
