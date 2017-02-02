@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/1.2.png)
+![](headings/1.2.png)
 
 This course is all about bringing animation to the designs we create for the web. In this lesson, we'll discuss why we might want to do this, as well as some principles that might be useful as we create animations. And lastly, why we've chosen to focus on CSS animation in particular.
 
