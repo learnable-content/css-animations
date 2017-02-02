@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/4.2.png)
+![](headings/4.2.png)
 
 In this lesson, we'll go through each of the examples of timing functions and see them in action. Let's begin with the HTML:
 
