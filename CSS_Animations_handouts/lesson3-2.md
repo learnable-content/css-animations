@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/3.2.png)
+![](headings/3.2.png)
 
 We'll start with a simple example to show how the animation property can be used to show an element on page load. We'll also see a simpler way to write our keyframes.
 
