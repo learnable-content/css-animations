@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/7.2.png)
+![](headings/7.2.png)
 
 So far we've covered the theory of how we create animations, put together multiple animations, and looked at ways to make sure they work in browsers. So let's talk about how we can make sure they don't get in the way.
 
