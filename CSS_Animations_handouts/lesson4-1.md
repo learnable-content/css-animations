@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/4.1.png)
+![](headings/4.1.png)
 
 They say **timing** is everything. When using animations, we frequently want to control the speed and the style of the animation. That is to say, the rate at which elements transition, or tween, between states. Timing functions control the way these tweens are calculated, and so give us the opportunity to finely control the way our animations look.
 
