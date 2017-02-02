@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/6.1.png)
+![](headings/6.1.png)
 
 A common scenario is one where you might want to trigger an animation when a visitor scrolls to a certain point on your page. This might be useful when animated content into place or initializing a storytelling animation.
 
