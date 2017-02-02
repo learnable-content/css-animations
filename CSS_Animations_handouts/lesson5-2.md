@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/5.2.png)
+![](headings/5.2.png)
 
 Let's look at how we can combine multiple transitions on a single element combined with some cubic-bezier timing functions, and create a really nice effect. In this example, we'll be revisiting the input focus method from earlier and making it even better.
 
