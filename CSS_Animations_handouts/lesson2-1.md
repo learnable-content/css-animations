@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/2.1.png)
+![](headings/2.1.png)
 
 In this lesson, we're going to take a look at the `transition` property, and work through some examples of how **transitions** can be applied to our designs.
 
