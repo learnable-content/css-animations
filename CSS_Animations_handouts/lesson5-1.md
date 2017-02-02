@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/5.1.png)
+![](headings/5.1.png)
 
 So, we've learned about transitions, put together some keyframes and animations; now it's time to put what we've learned together with more advanced examples. But before we do, let's take a moment to clarify when we might want to use a transition, versus when we might want to use an animation.
 
