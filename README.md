@@ -1,4 +1,4 @@
-![](headings/6.2.png)
+![](CSS_Animations_handouts/headings/6.2.png)
 
 In this lesson, we will look at how we ensure the animations we create perform well, and don't break our sites in the wide variety of web browsers that exist.
 
