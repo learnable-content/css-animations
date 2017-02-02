@@ -1,4 +1,4 @@
-![](headings/7.1.png)
+![](CSS_Animations_handouts/headings/7.1.png)
 
 In this example, we're going to look at the best ways to ensure your animations are smooth, and work with the browser's strengths. Let's open the example HTML and see if we can spot what's gone wrong. In this example we have some boxes of content, when the user hovers their cursor over one of them.
 
