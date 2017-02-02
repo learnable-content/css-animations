@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/1.4.png)
+![](headings/1.4.png)
 
 Before we get started, a quick word about the tools we'll be using. We don't need much to start adding CSS animation to our projects. All we really need is a text editor and a browser. I'll be using Sublime Text; it's available on Mac, Windows and Ubuntu. I won't be using any special plugins, so really any text editor will do. If you have your own preference, that's totally fine.
 
