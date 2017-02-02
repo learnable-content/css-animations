@@ -1,4 +1,4 @@
-![](CSS_Animations_handouts/headings/2.2.png)
+![](headings/2.2.png)
 
 Let's look at a real example of how adding the transition property can bring movement to a web page. In this example, we'll take a look at the animated hover effect. We have a box and when you hover over it, the letter changes from A to B.
 
