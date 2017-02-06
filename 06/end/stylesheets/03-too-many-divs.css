@@ -4,8 +4,8 @@
 }
 
 .circle {
-  -webkit-animation: spin 2s linear infinite;
-          animation: spin 2s linear infinite;
+  -webkit-animation: spin 90s linear infinite;
+          animation: spin 90s linear infinite;
   background: rgba(255,255,255,0.1);
   border-radius: 50%;
   height: 200vw;
@@ -18,16 +18,16 @@
 }
 
 .one {
-  -webkit-animation-delay: .15s;
-          animation-delay: .15s;
+  -webkit-animation-delay: .2s;
+          animation-delay: .2s;
   -webkit-transform-origin: 48% 47%;
           transform-origin: 48% 47%;
   width: 190%;
 }
 
 .two {
-  -webkit-animation-delay: .32s;
-          animation-delay: .32s;
+  -webkit-animation-delay: .3s;
+          animation-delay: .3s;
   -webkit-transform-origin: 48.5% 47.5%;
           transform-origin: 48.5% 47.5%;
   width: 195%;
@@ -42,24 +42,24 @@
 }
 
 .four {
-  -webkit-animation-delay: .48s;
-          animation-delay: .48s;
+  -webkit-animation-delay: .5s;
+          animation-delay: .5s;
   -webkit-transform-origin: 49.5% 48.5%;
           transform-origin: 49.5% 48.5%;
   width: 205%;
 }
 
 .five {
-  -webkit-animation-delay: .65s;
-          animation-delay: .65s;
+  -webkit-animation-delay: .6s;
+          animation-delay: .6s;
   -webkit-transform-origin: 50% 49%;
           transform-origin: 50% 49%;
   width: 210%;
 }
 
 .six {
-  -webkit-animation-delay: .71s;
-          animation-delay: .71s;
+  -webkit-animation-delay: .7s;
+          animation-delay: .7s;
   -webkit-transform-origin: 50.5% 49.5%;
           transform-origin: 50.5% 49.5%;
   width: 215%;
