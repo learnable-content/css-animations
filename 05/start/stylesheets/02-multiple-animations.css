@@ -1,0 +1,10 @@
+.demo {
+  background: #3991AE;
+  color: #fff;
+  font-size: 6rem;
+  opacity: 0;
+  overflow: hidden;
+  padding: 2rem 4rem;
+  position: relative;
+  text-align: center;
+}
