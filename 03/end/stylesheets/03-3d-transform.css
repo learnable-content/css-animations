@@ -1,0 +1,35 @@
+.centered {
+  -webkit-transform-style: preserve3d;
+          transform-style: preserve3d;
+
+  -webkit-perspective: 800px;
+
+          perspective: 800px;
+}
+
+.demo {
+  -webkit-animation: no-transform 1s .5s cubic-bezier(0,.1,.5,1.5) forwards;
+          animation: no-transform 1s .5s cubic-bezier(0,.1,.5,1.5) forwards;
+  background: #3991AE;
+  color: #fff;
+  font-size: 4rem;
+  padding: 2rem 3rem;
+  position: relative;
+  text-align: center;
+  -webkit-transform: rotateX(-90deg);
+          transform: rotateX(-90deg);
+}
+
+@-webkit-keyframes no-transform {
+  100% {
+    -webkit-transform: none;
+            transform: none;
+  }
+}
+
+@keyframes no-transform {
+  100% {
+    -webkit-transform: none;
+            transform: none;
+  }
+}
