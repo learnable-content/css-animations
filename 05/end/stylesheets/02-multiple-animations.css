@@ -1,0 +1,76 @@
+.demo {
+  -webkit-animation: setup 2s ease-out forwards,
+             dance 1s 2s cubic-bezier(0,.77,.53,1.31) infinite;
+          animation: setup 2s ease-out forwards,
+             dance 1s 2s cubic-bezier(0,.77,.53,1.31) infinite;
+  background: #3991AE;
+  color: #fff;
+  font-size: 6rem;
+  opacity: 0;
+  overflow: hidden;
+  padding: 2rem 4rem;
+  position: relative;
+  text-align: center;
+}
+
+@-webkit-keyframes setup {
+  0% {
+    opacity: 0;
+  }
+  75% {
+    opacity: 1;
+    -webkit-transform: none;
+            transform: none;
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: rotateZ(20deg);
+            transform: rotateZ(20deg);
+  }
+}
+
+@keyframes setup {
+  0% {
+    opacity: 0;
+  }
+  75% {
+    opacity: 1;
+    -webkit-transform: none;
+            transform: none;
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: rotateZ(20deg);
+            transform: rotateZ(20deg);
+  }
+}
+
+@-webkit-keyframes dance {
+  0% {
+    -webkit-transform: rotateZ(20deg);
+            transform: rotateZ(20deg);
+  }
+  50% {
+    -webkit-transform: rotateZ(-20deg);
+            transform: rotateZ(-20deg);
+  }
+  100% {
+    -webkit-transform: rotateZ(20deg);
+            transform: rotateZ(20deg);
+  }
+}
+
+@keyframes dance {
+  0% {
+    -webkit-transform: rotateZ(20deg);
+            transform: rotateZ(20deg);
+  }
+  50% {
+    -webkit-transform: rotateZ(-20deg);
+            transform: rotateZ(-20deg);
+  }
+  100% {
+    -webkit-transform: rotateZ(20deg);
+            transform: rotateZ(20deg);
+  }
+}
