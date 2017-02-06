@@ -9,10 +9,6 @@ html {
   -webkit-text-size-adjust: 100%; /* 3 */
 }
 
-body {
-  margin: 0;
-}
-
 article, aside, footer, header, nav, section {
   display: block;
 }
@@ -47,6 +43,7 @@ figure {
 /* Layout */
 
 body {
+  background: #EF9E45;
   margin: 0 auto;
   max-width: 800px;
   text-align: center;
@@ -92,7 +89,7 @@ p {
 }
 
 a {
-  color: #EF9E45;
+  color: #3991AE;
   text-decoration: none;
 }
 
